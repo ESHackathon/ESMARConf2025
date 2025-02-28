@@ -108,7 +108,7 @@ conference:
       - name: Location
         relative_url: /location/
         disabled: true
-      - name: Tickets
+      - name: Register
         disabled: true
         absolute_url: ''
 
