@@ -1,0 +1,21 @@
+days:
+- name: Wednesday
+  abbr: wed
+  date: 2025-06-11
+  #rooms:
+  #- name: Youtube
+  #  talks:
+  #    - name: Keynote 1
+  #      time_start: '09:00'
+  #      time_end: '10:00'
+  #    - name: Panel Discussion 1
+  #      time_start: '10:00'
+  #      time_end: '11:00'
+- name: Thursday
+  abbr: thu
+  date: 2025-06-12
+  rooms:
+- name: Friday
+  abbr: fri
+  date: 2025-06-13
+  rooms:
