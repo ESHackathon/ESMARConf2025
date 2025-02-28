@@ -2,8 +2,8 @@ title: ESMARConf2025
 preposition: at
 description: >-
   June 11th - 13th 2025
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eshackathon.org/ESMARConf2025" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/ESMARConf2025" # the subpath of your site, e.g. /blog
+url: "https://eshackathon.org" # the base hostname & protocol for your site, e.g. https://example.com
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
@@ -60,7 +60,7 @@ conference:
   tz: "+02:00"
 
   # Show theme errors:
-  show_errors: True
+  show_errors: False
 
   # Navigation bar
   navigation:
