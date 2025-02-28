@@ -102,6 +102,8 @@ conference:
     #logo:
     #  img: 'ESMARConf2025.png'
     links:
+      - name: Submit an Abstract
+        relative_url: /submit/
       - name: Program
         relative_url: /program/
         disabled: true
