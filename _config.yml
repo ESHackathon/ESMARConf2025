@@ -119,11 +119,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: ESMARConf is Back!
+    - title: Latest News
       color: primary
       main_only: true
       text: |
-        Keep an eye out for updates!
+        Registration is now open for ESMARConf2025!
     #- text: This is just some random content for demonstration purposes.
     #  color: warning
     #  pages_only: true
