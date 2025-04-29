@@ -72,6 +72,8 @@ conference:
     links:
       - name: Submit an Abstract
         relative_url: /submit/
+      - name: Register
+        absolute_url: https://opencollective.com/esmarconf/events/esmarconf2025-9e367c01
       #- name: Program
       #  relative_url: /program/
       #- name: Talks
@@ -111,8 +113,9 @@ conference:
         relative_url: /location/
         disabled: true
       - name: Register
-        disabled: true
-        absolute_url: ''
+        disabled: false
+        absolute_url: https://opencollective.com/esmarconf/events/esmarconf2025-9e367c01
+        # absolute_url: ''
 
   # Information boxes
   info_bars:
