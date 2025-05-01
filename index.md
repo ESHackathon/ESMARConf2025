@@ -13,5 +13,3 @@ Demonstrations integrating evidence synthesis packages into an interoperable pip
 Novel applications of R packages in an evidence synthesis context
 Automating evidence synthesis in R
 Assisting novices to R in performing evidence syntheses with the aid of graphical user interfaces
-
-**Please be aware that the deadline for abstract submission is the 21st of April 2025**
