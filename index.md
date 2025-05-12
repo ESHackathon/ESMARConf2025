@@ -2,7 +2,7 @@
 layout: home
 ---
 ![ESMARConf2025](/assets/images/ESMARConf2025.png)
-The Evidence Synthesis & Meta-Analysis in R Conference (#ESMARConf) is an annual conference that takes place entirely online. The core focus is in developing and validating tools to support evidence synthesis and meta-analysis in R. ESMARConf is run by the Evidence Synthesis Hackathon and led by an Organising Team consisting of Neal Haddaway, Matthew Grainger, Ryan Field and Rafael José Vieira.
+The Evidence Synthesis & Meta-Analysis in R Conference (#ESMARConf) is an annual conference that takes place entirely online. The core focus is in developing and validating tools to support evidence synthesis and meta-analysis in R. ESMARConf is run by the Evidence Synthesis Hackathon and led by an Organising Team consisting of Ryan Field, Rafael José Vieira, Neal Haddaway and Matthew Grainger.
 
 It features themed sessions of presentations and panel discussions, interactive workshops, and hackathons and codejams.
 
