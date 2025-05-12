@@ -74,6 +74,8 @@ conference:
         relative_url: /submit/
       - name: Register
         absolute_url: https://opencollective.com/esmarconf/events/esmarconf2025-9e367c01
+      - name: Apply for a Bursary
+        relative_url: /bursary/
       #- name: Program
       #  relative_url: /program/
       #- name: Talks
@@ -106,6 +108,8 @@ conference:
     links:
       - name: Submit an Abstract
         relative_url: /submit/
+      - name: Apply for a Bursary
+        relative_url: /bursary/
       - name: Program
         relative_url: /program/
         disabled: true
@@ -123,7 +127,7 @@ conference:
       color: primary
       main_only: true
       text: |
-        Registration is now open for ESMARConf2025!
+        Bursaries and registration is now open for ESMARConf2025!
     #- text: This is just some random content for demonstration purposes.
     #  color: warning
     #  pages_only: true
