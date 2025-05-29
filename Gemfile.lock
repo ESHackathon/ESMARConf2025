@@ -51,6 +51,7 @@ GEM
     ffi (1.17.1-arm-linux-gnu)
     ffi (1.17.1-arm-linux-musl)
     ffi (1.17.1-arm64-darwin)
+    ffi (1.17.1-x64-mingw-ucrt)
     ffi (1.17.1-x86-linux-gnu)
     ffi (1.17.1-x86-linux-musl)
     ffi (1.17.1-x86_64-darwin)
@@ -258,6 +259,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.18.4-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.18.4-x64-mingw-ucrt)
+      racc (~> 1.4)
     nokogiri (1.18.4-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.18.4-x86_64-linux-gnu)
@@ -314,6 +317,7 @@ PLATFORMS
   riscv64-linux-gnu
   riscv64-linux-musl
   ruby
+  x64-mingw-ucrt
   x86-linux
   x86-linux-gnu
   x86-linux-musl

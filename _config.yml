@@ -57,7 +57,7 @@ conference:
   lang: en
 
   # Timezone
-  tz: "+02:00"
+  tz: "+01:00"
 
   # Show theme errors:
   show_errors: False
@@ -76,8 +76,8 @@ conference:
         absolute_url: https://opencollective.com/esmarconf/events/esmarconf2025-9e367c01
       - name: Apply for a Bursary
         relative_url: /bursary/
-      #- name: Program
-      #  relative_url: /program/
+      - name: Programme
+        relative_url: /programme/
       #- name: Talks
       #  relative_url: /talks/
       #- name: Speakers
@@ -110,9 +110,8 @@ conference:
         relative_url: /submit/
       - name: Apply for a Bursary
         relative_url: /bursary/
-      - name: Program
-        relative_url: /program/
-        disabled: true
+      - name: Programme
+        relative_url: /programme/
       - name: Location
         relative_url: /location/
         disabled: true
@@ -150,14 +149,20 @@ conference:
   talks:
     # Talk categories
     main_categories:
+      - name: Keynote
+        color: primary
       - name: Tutorial
-        color: info
-      - name: Presentation
-        color: danger
-      - name: Workshop
         color: dark
+      - name: Talk
+        color: secondary
+      - name: Workshop
+        color: info
       - name: Panel Discussion
+        color: danger
+      - name: Live
         color: success
+      - name: Break
+        color: light
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -188,7 +193,7 @@ conference:
 
   program:
     # URL of program page
-    url: '/program'
+    url: '/programme'
 
     # Time steps in program table
     time_steps: 15 # in minutes
