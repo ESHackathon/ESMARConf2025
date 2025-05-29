@@ -76,8 +76,8 @@ conference:
         absolute_url: https://opencollective.com/esmarconf/events/esmarconf2025-9e367c01
       - name: Apply for a Bursary
         relative_url: /bursary/
-      - name: Program
-        relative_url: /program/
+      - name: Programme
+        relative_url: /programme/
       #- name: Talks
       #  relative_url: /talks/
       #- name: Speakers
@@ -110,8 +110,8 @@ conference:
         relative_url: /submit/
       - name: Apply for a Bursary
         relative_url: /bursary/
-      - name: Program
-        relative_url: /program/
+      - name: Programme
+        relative_url: /programme/
       - name: Location
         relative_url: /location/
         disabled: true
@@ -193,7 +193,7 @@ conference:
 
   program:
     # URL of program page
-    url: '/program'
+    url: '/programme'
 
     # Time steps in program table
     time_steps: 15 # in minutes
