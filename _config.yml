@@ -112,6 +112,7 @@ conference:
         relative_url: /bursary/
       - name: Programme
         relative_url: /programme/
+      - live: true
       - name: Location
         relative_url: /location/
         disabled: true
@@ -133,8 +134,8 @@ conference:
 
   # Live indications
   live:
-    date: 01.01.2020
-    timezone: GMT+1
+    # date: 01.01.2020
+    # timezone: GMT+1
     stop:       240  # in minutes
     streaming:
       enable: true
