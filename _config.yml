@@ -143,7 +143,7 @@ conference:
       prepend:    5  # in minutes
       extend:     5  # in minutes
     demo:
-      enable: true
+      enable: false
       duration: 300  # in seconds
       pause:     10  # in seconds
 
