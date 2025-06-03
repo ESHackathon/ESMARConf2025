@@ -1,7 +1,7 @@
 ---
-name: Keynote 1
+name: "Practising what we preach: Rethinking standards in meta-analysis for ecology and evolution"
 speakers:
-  - Coming Soon
+  - Alfredo Sánchez-Tójar
 categories:
   - Live
   - Keynote

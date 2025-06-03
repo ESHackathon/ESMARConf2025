@@ -1,7 +1,8 @@
 ---
-name: Workshop 4
+name: "CEE : Introducing the Collaboration for Environmental Evidence"
 speakers:
-  - Coming Soon
+  - Natalie Dubois
+  - Meagan Harper
 categories:
   - Live
   - Workshop

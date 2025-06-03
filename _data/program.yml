@@ -8,7 +8,7 @@ days:
     - name: Welcome to ESMARConf2025
       time_start: '09:00'
       time_end: '09:15'
-    - name: Keynote 1
+    - name: "Practising what we preach: Rethinking standards in meta-analysis for ecology and evolution"
       time_start: '09:15'
       time_end: '10:00'
     - name: Presentations
@@ -56,7 +56,7 @@ days:
     - name: Workshop 3
       time_start: '13:00'
       time_end: '15:00'
-    - name: Workshop 4
+    - name: "CEE : Introducing the Collaboration for Environmental Evidence"
       time_start: '15:00'
       time_end: '15:45'
     - name: Wrap-up day 2
