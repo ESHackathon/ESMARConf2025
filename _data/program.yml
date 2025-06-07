@@ -23,7 +23,7 @@ days:
     - name: Workshop 2
       time_start: '13:00'
       time_end: '15:00'
-    - name: Keynote 2
+    - name: Misunderstandings and misuses of commonly-cited methods for meta-analyses
       time_start: '15:00'
       time_end: '15:45'
     - name: Wrap-up day 1
@@ -41,7 +41,7 @@ days:
     - name: Welcome to Day 2
       time_start: '09:00'
       time_end: '09:15'
-    - name: Keynote 3
+    - name: "Fixing our broken science-policy pipelines: Evidence-Based X"
       time_start: '09:15'
       time_end: '10:00'
     - name: Presentations
@@ -53,7 +53,7 @@ days:
     - name: Break
       time_start: '12:00'
       time_end: '13:00'
-    - name: Workshop 3
+    - name: Risk of Bias assessment for ecology & evolutionary biology
       time_start: '13:00'
       time_end: '15:00'
     - name: "CEE : Introducing the Collaboration for Environmental Evidence"
