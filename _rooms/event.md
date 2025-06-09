@@ -1,4 +1,6 @@
 ---
 name: Presentation
-hide: true
+hide: false
 ---
+
+[ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)

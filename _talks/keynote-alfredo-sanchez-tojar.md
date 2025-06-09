@@ -14,3 +14,7 @@ The central argument is that meta-analyses themselves often suffer from similarâ
 Throughout the talk, there will be practical recommendations for improving the transparency, rigour, and impact of meta-analyses in ecology and evolution.
 
 While this talk has a focus on studies in ecology and evolutionary biology, the underlying methodology and concepts will be applicable to many disciplines.
+
+[ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)
+
+[Zoom Link](https://uofglasgow.zoom.us/j/86004378737?pwd=DGgXkn2vYrpM9qDtCBaYSO4v8neKoE.1)
