@@ -15,5 +15,3 @@ hide: false
 This panel discussion will be a critical discussion on the use of AI to assist, accelerate and perform all aspects of the systematic review process.
 
 [ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)
-
-[Zoom Link](https://uofglasgow.zoom.us/j/81921172273?pwd=fG9HYGaAkLNdUOiJwmaNy5T9kHDK2w.1)
