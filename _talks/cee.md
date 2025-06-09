@@ -12,5 +12,3 @@ hide: false
 Join us for an engaging session designed to introduce conference participants to the Collaboration for Environmental Evidence (CEE) and its services for researchers, methodologists, and evidence users. This session will demonstrate how CEE can support your evidence synthesis work. Participants will leave with a clear understanding of CEE’s mission, practical knowledge of available tools and services, and concrete ways to integrate CEE resources into their own synthesis projects.
 
 [ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)
-
-[Zoom Link](https://uofglasgow.zoom.us/j/85930958604?pwd=wPs3W3uvmMb2sSTw9co0qWSGnCQAGb.1)

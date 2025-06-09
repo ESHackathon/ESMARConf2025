@@ -19,5 +19,3 @@ Next, we will discuss whether the proposed questions adequately cover the main a
 The workshop is open to participants from any research field and will benefit from the diverse perspectives different disciplines bring.
 
 [ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)
-
-[Zoom Link](https://uofglasgow.zoom.us/j/84036887644?pwd=gHaBbZF1o3Jec1w4xCSjiPMNJU3y7A.1)

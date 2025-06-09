@@ -26,5 +26,3 @@ Activities:
 - Quantitative analysis/synthesis (including meta-analysis)
 
 [ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)
-
-[Zoom Link](https://uofglasgow.zoom.us/j/85787220772?pwd=ocrnxhIytMNTuwx1qDnUASakpkitqv.1)
