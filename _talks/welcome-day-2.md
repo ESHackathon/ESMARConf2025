@@ -7,4 +7,4 @@ categories:
 hide: false
 ---
 
-Introduction to Day 2
+A recap of day 1 and an introduction to day 2.

@@ -17,3 +17,7 @@ In this workshop, I will briefly present our results, followed by a discussion o
 Next, we will discuss whether the proposed questions adequately cover the main aspects of RoB, and identify any additional questions that should be introduced. This will lead into a broader discussion on the constraints of assessing (and addressing) RoB in ecological and evolutionary meta-analyses, as well as potential strategies to overcome these challenges. Finally, we will gather suggestions for developing a more detailed RoB tool tailored to eco-evo research.
 
 The workshop is open to participants from any research field and will benefit from the diverse perspectives different disciplines bring.
+
+[ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)
+
+[Zoom Link](https://uofglasgow.zoom.us/j/84036887644?pwd=gHaBbZF1o3Jec1w4xCSjiPMNJU3y7A.1)
