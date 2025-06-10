@@ -1,7 +1,11 @@
 ---
 name: 'Panel Discussion: How should we build capacity and capabilities in specific sector?...'
 speakers:
-  - Coming Soon
+  - Andrea Schievano
+  - Damien Beillouin
+  - Adrien de Pierrepont
+  - Nicola Randall
+  - Lynn Dicks
 categories:
   - Live
   - Panel Discussion
