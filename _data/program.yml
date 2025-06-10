@@ -11,9 +11,12 @@ days:
     - name: "Practising what we preach: Rethinking standards in meta-analysis for ecology and evolution"
       time_start: '09:15'
       time_end: '10:00'
-    - name: Presentations
+    - name: A tutorial on how to visualize heterogeneity in forest plots
       time_start: '10:00'
-      time_end: '11:00'
+      time_end: '10:15'
+    - name: 'Why do we need to randomise and split data? Introducing 🎲RefRandomiser: a 2025 Evidence Synthesis Hackathon tool'
+      time_start: '10:15'
+      time_end: '10:30'
     - name: Campbell Collaboration
       time_start: '11:00'
       time_end: '12:00'
