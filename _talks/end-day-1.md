@@ -3,7 +3,7 @@ name: Wrap-up day 1
 speakers:
   - Coming Soon
 categories:
-  - Talk
+  - Presentation
 hide: false
 ---
 

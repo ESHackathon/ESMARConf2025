@@ -3,7 +3,7 @@ name: Presentations
 speakers:
   - Coming Soon
 categories:
-  - Talk
+  - Presentation
   - Tutorial
 hide: false
 ---

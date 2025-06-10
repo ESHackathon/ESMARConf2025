@@ -1,11 +1,11 @@
 ---
-name: Wrap-up day 2
+name: 'ESH Tools from a users perspective'
 speakers:
-  - Coming Soon
+  - Fiona Campbell
 categories:
+  - YouTube
   - Presentation
 hide: false
 ---
 
-A wrap-up of day 2
 [ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)
