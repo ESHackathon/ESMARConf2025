@@ -1,11 +1,11 @@
 ---
-name: Wrap-up day 2
+name: 'Responsible AI in Evidence Synthesis (RAISE): guidance and recommendations'
 speakers:
-  - Coming Soon
+  - Ella Flemyng
 categories:
+  - YouTube
   - Presentation
 hide: false
 ---
 
-A wrap-up of day 2
 [ESMARConf Youtube Channel](https://www.youtube.com/@esmarconf)

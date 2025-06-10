@@ -4,7 +4,7 @@ speakers:
   - Lena Schmidt
 categories:
   - Live
-  - Talk
+  - Presentation
 hide: false
 ---
 

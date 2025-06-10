@@ -72,9 +72,12 @@ conference:
     links:
       - name: Submit an Abstract
         relative_url: /submit/
+        disabled: true
       - name: Register
         absolute_url: https://opencollective.com/esmarconf/events/esmarconf2025-9e367c01
+        disabled: true
       - name: Apply for a Bursary
+        disabled: true
         relative_url: /bursary/
       - name: Programme
         relative_url: /programme/
@@ -108,16 +111,17 @@ conference:
     links:
       - name: Submit an Abstract
         relative_url: /submit/
+        disabled: true
       - name: Apply for a Bursary
         relative_url: /bursary/
+        disabled: true
       - name: Programme
         relative_url: /programme/
       - live: true
       - name: Location
         relative_url: /location/
-        disabled: true
       - name: Register
-        disabled: false
+        disabled: true
         absolute_url: https://opencollective.com/esmarconf/events/esmarconf2025-9e367c01
         # absolute_url: ''
 
@@ -127,7 +131,7 @@ conference:
       color: primary
       main_only: true
       text: |
-        Bursaries and registration is now open for ESMARConf2025!
+        Welcome to ESMARConf2025!
     #- text: This is just some random content for demonstration purposes.
     #  color: warning
     #  pages_only: true
@@ -154,7 +158,7 @@ conference:
         color: primary
       - name: Tutorial
         color: dark
-      - name: Talk
+      - name: Presentation
         color: secondary
       - name: Workshop
         color: info
@@ -162,6 +166,8 @@ conference:
         color: danger
       - name: Live
         color: success
+      - name: YouTube
+        color: primary
       - name: Break
         color: light
 
@@ -197,7 +203,7 @@ conference:
     url: '/programme'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 5 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true

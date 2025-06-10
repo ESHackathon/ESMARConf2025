@@ -3,7 +3,7 @@ name: Final Wrap-up
 speakers:
   - Coming Soon
 categories:
-  - Talk
+  - Presentation
 hide: false
 ---
 
