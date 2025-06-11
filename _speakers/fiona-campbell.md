@@ -1,7 +1,7 @@
 ---
 name: Fiona Campbell
 first_name: Fiona
-last_name: Fiona Campbell
+last_name: Campbell
 #links:
 #  - name: Profile
 #    absolute_url: https://github.com
