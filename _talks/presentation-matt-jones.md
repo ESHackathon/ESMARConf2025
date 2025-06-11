@@ -1,7 +1,7 @@
 ---
 name: '{rayyanR}: an R package to interface with Rayyan'
 speakers:
-  - Matt LLoyd James
+  - Matt LLoyd Jones
 categories:
   - YouTube
   - Presentation

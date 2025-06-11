@@ -1,7 +1,7 @@
 ---
-name: Matt LLoyd James
+name: Matt LLoyd Jones
 first_name: Matt
-last_name: LLoyd James
+last_name: LLoyd Jones
 #links:
 #  - name: Profile
 #    absolute_url: https://github.com
