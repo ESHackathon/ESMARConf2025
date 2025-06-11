@@ -57,7 +57,7 @@ conference:
   lang: en
 
   # Timezone
-  tz: "+01:00"
+  tz: "+00:00"
 
   # Show theme errors:
   show_errors: False
