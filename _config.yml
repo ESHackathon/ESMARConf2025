@@ -136,7 +136,7 @@ conference:
   # Live indications
   live:
     # date: 01.01.2020
-    # timezone: GMT+1
+    timezone: GMT+1
     stop:       240  # in minutes
     streaming:
       enable: true
