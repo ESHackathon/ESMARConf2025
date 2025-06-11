@@ -1,7 +1,7 @@
 ---
 name: Final Wrap-up
 speakers:
-  - Coming Soon
+  - Ryan Field
 categories:
   - Presentation
 hide: false

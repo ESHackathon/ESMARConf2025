@@ -1,7 +1,7 @@
 ---
 name: Welcome to Day 3
 speakers:
-  - Coming Soon
+  - Ryan Field
 categories:
   - Presentation
 hide: false

@@ -1,7 +1,7 @@
 ---
 name: Welcome to Day 2
 speakers:
-  - Coming Soon
+  - Ryan Field
 categories:
   - Presentation
 hide: false

@@ -1,5 +1,5 @@
 ---
-name: 'Responsible AI in Evidence Synthesis (RAISE): guidance and recommendations'
+name: 'Introducing RAISE (Responsible AI use in evidence SynthEsis)'
 speakers:
   - Ella Flemyng
 categories:

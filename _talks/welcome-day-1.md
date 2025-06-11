@@ -1,7 +1,7 @@
 ---
 name: Welcome to ESMARConf2025
 speakers:
-  - Coming Soon
+  - Ryan Field
 categories:
   - Presentation
 hide: false
