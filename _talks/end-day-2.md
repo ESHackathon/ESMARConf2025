@@ -1,7 +1,7 @@
 ---
 name: Wrap-up day 2
 speakers:
-  - Coming Soon
+  - Ryan Field
 categories:
   - Presentation
 hide: false

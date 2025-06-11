@@ -101,7 +101,7 @@ days:
     - name: 'ESH Tools from a users perspective'
       time_start: '11:30'
       time_end: '11:40'
-    - name: 'Responsible AI in Evidence Synthesis (RAISE): guidance and recommendations'
+    - name: 'Introducing RAISE (Responsible AI use in evidence SynthEsis)'
       time_start: '11:40'
       time_end: '11:50'
     - name: 'Addressing the need for reporting guidance for interactive evidence outputs - challenges and opportunities'
