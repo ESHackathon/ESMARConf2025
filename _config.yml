@@ -5,7 +5,7 @@ description: >-
 baseurl: "/ESMARConf2025" # the subpath of your site, e.g. /blog
 url: "https://eshackathon.org" # the base hostname & protocol for your site, e.g. https://example.com
 
-remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.6"
 
 # Build settings
 markdown: kramdown
@@ -55,6 +55,8 @@ conference:
 
   # Language
   lang: en
+
+  tz: "+01:00"
 
   # Show theme errors:
   show_errors: False
@@ -136,7 +138,7 @@ conference:
   # Live indications
   live:
     # date: 01.01.2020
-    timezone: GMT+1
+    # timezone: GMT+1
     stop:       240  # in minutes
     streaming:
       enable: true
